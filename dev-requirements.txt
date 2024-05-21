@@ -1,5 +1,5 @@
 # main
-requests==2.31.0
+requests==2.32.0
 beautifulsoup4==4.12.3
 tqdm==4.66.4
 icalendar==4.1.1
@@ -7,4 +7,4 @@ icalendar==4.1.1
 # test
 pytest==7.4.4
 coverage==6.5.0
-black==23.12.1
+black==24.3.0
